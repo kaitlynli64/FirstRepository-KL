@@ -1,0 +1,236 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.32f1 (12f8b0834f07) revision 1243312'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'en' Physical Memory: 16294 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Kaitlyn/My project (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52201
+Successfully changed project path to: C:/Users/Kaitlyn/My project (1)
+C:/Users/Kaitlyn/My project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.32f1 (12f8b0834f07)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Kaitlyn/My project (1)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001971 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.490 seconds
+Domain Reload Profiling:
+	ReloadAssembly (490ms)
+		BeginReloadAssembly (52ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (375ms)
+			LoadAssemblies (50ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (124ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (147ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (68ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002592 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.016 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1017ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (820ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (268ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (314ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (45ms)
+				BeforeProcessingInitializeOnLoad (63ms)
+				ProcessInitializeOnLoadAttributes (174ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.0 MB.
+System memory in use after: 96.9 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 2.908200 ms (FindLiveObjects: 0.212300 ms CreateObjectMapping: 0.077700 ms MarkObjects: 2.484500 ms  DeleteObjects: 0.132900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.010278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.303564 seconds.
+  path: Assets/Levels
+  artifactKey: Guid(a975063097a5a294988832f6c7a42aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels using Guid(a975063097a5a294988832f6c7a42aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ab816cff93cd30c9fec9256445b0dc') in 0.009044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.086202 seconds.
+  path: Assets/Levels/Background Elements.gif
+  artifactKey: Guid(77cd603d41721284eab7832919d6f5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Background Elements.gif using Guid(77cd603d41721284eab7832919d6f5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e80ac039b91ddded9cd946e9f8e5578') in 0.079304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Levels/SuperMarioWorld-ValleyOfBowser-ValleyOfBowser1.png
+  artifactKey: Guid(43e20ca532882424c82d2af913e16bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-ValleyOfBowser-ValleyOfBowser1.png using Guid(43e20ca532882424c82d2af913e16bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e46d10ca56b824624c0d5a7d0ab89c8') in 0.016201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Levels/SuperMarioWorld-TwinBridges-ButterBridge2.png
+  artifactKey: Guid(46d7fd4cde80fbc4abd6ac3c560a13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-TwinBridges-ButterBridge2.png using Guid(46d7fd4cde80fbc4abd6ac3c560a13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d91337d395ab4a02303c11ab34ac40') in 0.016152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Levels/SuperMarioWorld-Yoshi'sIsland-Yoshi'sIsland2.png
+  artifactKey: Guid(9248446341555024e9e9b6c8bfc910e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-Yoshi'sIsland-Yoshi'sIsland2.png using Guid(9248446341555024e9e9b6c8bfc910e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866fd23a4cef999ec11f90bbda04d216') in 0.015260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Levels/SuperMarioWorld-ValleyOfBowser-ValleyOfBowser4.png
+  artifactKey: Guid(797895c7df23d1a409c2fa734e89de0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-ValleyOfBowser-ValleyOfBowser4.png using Guid(797895c7df23d1a409c2fa734e89de0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '295793af91e1bce203eef9d3c83a90bc') in 0.019381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Levels/SuperMarioWorld-VanillaDome-VanillaDome1.png
+  artifactKey: Guid(d8094f613c3b214438433216a2b1dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-VanillaDome-VanillaDome1.png using Guid(d8094f613c3b214438433216a2b1dd42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23569e989656f5f6a001f1a5e9fb67bb') in 0.015223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Levels/SuperMarioWorld-ForestOfIllusion-ForestOfIllusion3.png
+  artifactKey: Guid(abe246948dfbd8f4eacaee4d3f9270ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-ForestOfIllusion-ForestOfIllusion3.png using Guid(abe246948dfbd8f4eacaee4d3f9270ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4feb6a08d3f06abb8a2b357cf36ad08') in 0.014219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Levels/SuperMarioWorld-DonutPlains-DonutPlains2.png
+  artifactKey: Guid(313d2f7c0ad30934a958620fafa10567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-DonutPlains-DonutPlains2.png using Guid(313d2f7c0ad30934a958620fafa10567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812c83c837cf9f50a9c8ba2237ef795e') in 0.018193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Levels/DonutPlains1_DONE.png
+  artifactKey: Guid(67f395e7f4f2e6b4ea512199e9520c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/DonutPlains1_DONE.png using Guid(67f395e7f4f2e6b4ea512199e9520c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b7e32f811ddf09be694abbbb577c6e') in 0.017215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Levels/SuperMarioWorld-DonutPlains-DonutPlains1.png
+  artifactKey: Guid(90c4ef4eddcec5941b8894bd70fe9516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-DonutPlains-DonutPlains1.png using Guid(90c4ef4eddcec5941b8894bd70fe9516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1c86dfdea73681e02415564bd77625') in 0.011289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Levels/SuperMarioWorld-ChocolateIsland-ChocolateIsland1.png
+  artifactKey: Guid(21de25af8cfc1f248adc84a7e3bbe059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-ChocolateIsland-ChocolateIsland1.png using Guid(21de25af8cfc1f248adc84a7e3bbe059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5d969bd59a52d2c189aae8e17dce9c') in 0.016463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Levels/SuperMarioWorld-DonutPlains-DonutPlains4.png
+  artifactKey: Guid(eeb1b8724cf34f54a82b2b252ff071ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-DonutPlains-DonutPlains4.png using Guid(eeb1b8724cf34f54a82b2b252ff071ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097a0fd9e5628b0e2d1b3d0a83155118') in 0.011404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Levels/SuperMarioWorld-ForestOfIllusion-ForestOfIllusion4.png
+  artifactKey: Guid(91e469293ad15a144b4a0605feee0b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-ForestOfIllusion-ForestOfIllusion4.png using Guid(91e469293ad15a144b4a0605feee0b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e61aa47604e30e91cf842df814ba812') in 0.011416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Levels/SuperMarioWorld-Yoshi'sIsland-Yoshi'sIsland4.png
+  artifactKey: Guid(9dc8facc50b561845bfef8b76f9f8175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-Yoshi'sIsland-Yoshi'sIsland4.png using Guid(9dc8facc50b561845bfef8b76f9f8175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3efeb226c1db1e3346b8a01c68347d39') in 0.016862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Levels/SuperMarioWorld-Yoshi'sIsland-Yoshi'sIsland1.png
+  artifactKey: Guid(f2e0498da0ce1434f95cbecbe9e56d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/SuperMarioWorld-Yoshi'sIsland-Yoshi'sIsland1.png using Guid(f2e0498da0ce1434f95cbecbe9e56d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d7ad2a69a2e23a971f44614c21c452') in 0.010496 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
